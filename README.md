@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 - 🌱 try to make the world better and leaning anything intersted.
 - 📫 How to reach me: meloseven@qq.com
 
-someday I will put more on it.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meloseven)](https://github.com/anuraghazra/github-readme-stats)
